@@ -95,6 +95,10 @@ Requirements: User must be logged in; title, context, and product picture are re
 
 Implementation: Create and save a new product post in the database.
 
+1-1. sample product post
+
+![image](https://github.com/thewon4155/spartamarket_DRF/assets/99013724/0dcdb184-d5d6-4422-9532-1993d6abda7b)
+
 
 ### 2. Check for Product List
 
