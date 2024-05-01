@@ -99,6 +99,10 @@ Implementation: Create and save a new product post in the database.
 
 ![image](https://github.com/thewon4155/spartamarket_DRF/assets/99013724/0dcdb184-d5d6-4422-9532-1993d6abda7b)
 
+1-2. visualizing post
+
+<img width="944" alt="image" src="https://github.com/thewon4155/spartamarket_DRF/assets/99013724/2b6dc2d0-d3cc-4e5b-9807-cd5bdfc2447e">
+
 
 ### 2. Check for Product List
 
