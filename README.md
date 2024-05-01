@@ -13,9 +13,9 @@ One-to-Many: A user can post multiple products, but each product is associated w
 
 # 1. Project abstract: (2024.04.29. ~ 2024.05.01.)
 
-a DRF that runs apps of Accounts, Product and list items for sale.
+a DRF that runs apps of Accounts, Products to host a website that provides item lists for sale.
 
-Basically an extension from the previous Sparatamarket.
+Basically an extension from the previous Sparta market.
 
 
 
