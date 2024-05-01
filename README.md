@@ -31,7 +31,7 @@ Verifications: Postman
 
 # 3. Operating Functions:
 
-APP: ACCOUNTS:
+APP (ACCOUNTS)
 
 ### 1. Signup
 Endpoint: /api/accounts
@@ -83,7 +83,7 @@ Verification: Access allowed only to logged-in users.
 Implementation: Convert logged-in user's information into JSON format.
 
 
-APP: PRODUCTS:
+APP (PRODUCTS)
 
 ### 1. Register Product
 
