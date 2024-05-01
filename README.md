@@ -114,6 +114,10 @@ Requirements: No login required.
 
 Implementation: Fetch and convert all product listings with pagination to manage the data efficiently.
 
+2-1. 200 OK check
+
+![스크린샷 2024-05-01 213249](https://github.com/thewon4155/spartamarket_DRF/assets/99013724/afa40806-84fb-479f-8de5-9f19798dfc7c)
+
 
 ### 3. Modify Product
 
@@ -127,6 +131,10 @@ Verification: Ensure that the requesting user is the original writer of the post
 
 Implementation: Update product information with the revised content.
 
+3-1. changed product info
+
+![image](https://github.com/thewon4155/spartamarket_DRF/assets/99013724/1a5532e9-bd49-4efc-8f87-c1781c0abb16)
+
 
 ### 4. Delete Product
 
@@ -139,3 +147,7 @@ Requirements: User must be logged in and must be the writer of the post.
 Verification: Ensure that the requesting user is the original writer of the post.
 
 Implementation: Remove the product post from the database.
+
+4-1. delete product post
+
+![image](https://github.com/thewon4155/spartamarket_DRF/assets/99013724/eab6c182-cc08-4e05-9c83-37f6e3509b7f)
